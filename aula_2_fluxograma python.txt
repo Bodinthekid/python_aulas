@@ -1,0 +1,24 @@
+
+
+Aula de Programação em Python
+Pseudocódigo
+Definição e Importância: Pseudocódigo é uma descrição de alto nível de um algoritmo que utiliza uma linguagem simples e próxima da linguagem humana. Ele é importante pois permite planejar e expressar soluções algorítmicas antes da implementação em uma linguagem de programação específica.
+Exemplo de Pseudocódigo:
+mathematica
+Copy code
+Início
+  Ler valor
+  Se valor > 0
+    Escrever "O valor é positivo."
+  Senão
+    Escrever "O valor é negativo ou zero."
+  Fim Se
+Fim
+Fluxograma
+Introdução e Representação Gráfica: Um fluxograma é uma representação gráfica de um algoritmo, utilizando símbolos padronizados para representar os diferentes elementos lógicos e de controle de fluxo.
+Elementos Básicos:
+Início/Fim: Representados por um óvalo.
+Processo: Representado por um retângulo.
+Decisão: Representada por um losango.
+Conector: Utilizado para conectar diferentes partes do fluxograma.
+Exemplo de Fluxograma:

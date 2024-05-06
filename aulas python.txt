@@ -1,0 +1,58 @@
+Aula 1: Introdução ao Python
+
+O que é Python e sua história.
+Por que aprender Python? Vantagens e aplicabilidade.
+Ambientes de desenvolvimento: Instalação do Python e uso do interpretador interativo.
+Aula 2: Conceitos Básicos de Programação com Python
+
+Variáveis e tipos de dados em Python: números, strings, listas e dicionários.
+Operadores: Aritméticos, relacionais e lógicos.
+Controle de Fluxo: Condicional (if-elif-else) e loops (for e while).
+Exemplos práticos: Criando programas simples para praticar conceitos básicos.
+Aula 3: Funções e Modularização
+
+Definindo e chamando funções em Python.
+Parâmetros e argumentos de função.
+Escopo de variáveis.
+Modularização: Organizando código em arquivos e importando módulos.
+Exemplos práticos: Criando e utilizando funções para resolver problemas.
+Aula 4: Estruturas de Dados Avançadas
+
+Tuplas e conjuntos.
+Compreensão de listas e dicionários.
+Estruturas de dados aninhadas.
+Exemplos práticos: Manipulação avançada de dados utilizando diferentes estruturas.
+Aula 5: Orientação a Objetos em Python
+
+Conceitos de orientação a objetos: Classes e objetos.
+Atributos e métodos.
+Herança e polimorfismo.
+Exemplos práticos: Criando e manipulando classes e objetos.
+Aula 6: Manipulação de Arquivos e Exceções
+
+Leitura e escrita de arquivos.
+Tratamento de exceções (try-except).
+Context managers (with statement).
+Exemplos práticos: Manipulando arquivos e lidando com exceções.
+Aula 7: Módulos Padrão e Pacotes
+
+Explorando módulos padrão do Python.
+Instalação e uso de pacotes externos com pip.
+Criando e organizando pacotes.
+Exemplos práticos: Utilizando módulos e pacotes para estender funcionalidades.
+Aula 8: Manipulação de Dados e Bibliotecas de Ciência de Dados
+
+Introdução à manipulação de dados com Pandas.
+Visualização de dados com Matplotlib e Seaborn.
+Exemplos práticos: Análise e visualização de conjuntos de dados simples.
+Aula 9: Web Development com Python
+
+Introdução ao Flask ou Django (escolha uma estrutura).
+Roteamento de URLs.
+Templates HTML e estilos CSS.
+Exemplos práticos: Construção de uma aplicação web simples.
+Aula 10: Projeto Final e Revisão
+
+Revisão dos conceitos aprendidos ao longo do curso.
+Desenvolvimento de um pequeno projeto prático que integre vários conceitos.
+Discussão sobre próximos passos e recursos adicionais para continuar aprendendo Python.
